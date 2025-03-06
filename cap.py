@@ -11,7 +11,7 @@ from transformers import VisionEncoderDecoderModel
 from transformers import Seq2SeqTrainingArguments
 from transformers import ViTFeatureExtractor, GPT2Tokenizer
 
-# ##########
+
 
 class Args:
     """Configuration.
