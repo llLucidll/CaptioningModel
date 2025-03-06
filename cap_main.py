@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from transformers import GPT2Tokenizer, ViTFeatureExtractor
 
-from cap_submission import *
+from cap import *
 
 def inspect_data(
     args,
